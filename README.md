@@ -1,5 +1,4 @@
 # Week-19-Budget-Tracker
-https://radiant-gorge-17011.herokuapp.com/
 
 ![Badge](https://img.shields.io/badge/License-MIT-orange)
 
@@ -9,7 +8,7 @@ https://radiant-gorge-17011.herokuapp.com/
 - [License](#license)
 
 ## Description
-A budget tracker utilizing AWS that allows you to download the app and to be able to keep track of deposits and withdrawals while offline.
+A budget tracker utilizing PWA that allows you to download the app and to be able to keep track of deposits and withdrawals while offline.
 
 [Heroku deployment](https://radiant-gorge-17011.herokuapp.com/).
 
